@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "dariofuzinato.vue-peek",
+    "xabikos.javascriptsnippets",
+    "abusaidm.html-snippets",
+    "gencer.html-slim-scss-css-class-completion",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "msjsdiag.debugger-for-chrome",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "chrmarti.regex",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker",
+    "humao.rest-client",
+    "arjun.swagger-viewer",
+    "coenraads.bracket-pair-colorizer",
+    "wix.vscode-import-cost",
+    "vscode-icons-team.vscode-icons",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "yzhang.markdown-all-in-one"
+  ],
+  "unwantedRecommendations": []
+}
